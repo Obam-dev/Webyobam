@@ -1,0 +1,7 @@
+:root {
+  --black: #000000;
+}
+
+.myDiv {
+  background-color: var(--black);
+}
